@@ -46,9 +46,10 @@ Educators – Align programs with industry standards
 
 Explore the Dashboard
 
-Interactive Story
+[Interactive Story](https://public.tableau.com/app/profile/navya.prasad/viz/InfoVizAssignement/Story?publish=yes)
 
-Main Dashboard
+[Main Dashboard](https://public.tableau.com/app/profile/navya.prasad/viz/InfoVizAssignment_17436446722180/MainDashboard?publish=yes)
+
 
 
 
